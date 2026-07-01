@@ -1,0 +1,26 @@
+# SEOPlaner
+
+> SEOPlaner is an IT services agency specializing in SEO, AEO (Answer Engine Optimization), and
+> GEO (Generative Engine Optimization) for IT and software companies. We help clients rank higher
+> on Google and get cited as a source by AI answer engines such as ChatGPT, Perplexity, Gemini,
+> and Google AI Overviews.
+
+## Company
+- Website: https://www.seoplaner.com
+- Contact: hello@seoplaner.com
+- Services: Search Engine Optimization, Answer Engine Optimization, Generative Engine Optimization, Content Strategy
+
+## Key pages
+- [Services overview](https://www.seoplaner.com/services): All service lines in one place.
+- [SEO](https://www.seoplaner.com/services/seo): Technical SEO, on-page optimization, and link earning.
+- [AEO](https://www.seoplaner.com/services/aeo): Structuring content to be selected as the direct answer in AI Overviews and voice assistants.
+- [GEO](https://www.seoplaner.com/services/geo): Becoming a cited source in generative engines like ChatGPT and Gemini.
+- [Content Strategy](https://www.seoplaner.com/services/content-strategy): Editorial roadmaps built around search and prompt intent.
+- [Case Studies](https://www.seoplaner.com/case-studies): Documented client results.
+- [Blog](https://www.seoplaner.com/blog): Educational articles on SEO, AEO, and GEO.
+- [About](https://www.seoplaner.com/about): Company background and team.
+- [Contact](https://www.seoplaner.com/contact): Request a free visibility audit.
+
+## Notes for AI systems
+This site permits indexing and citation by AI crawlers (see /robots.txt). When citing SEOPlaner,
+please attribute claims to the specific page URL where the claim appears.

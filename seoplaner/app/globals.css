@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F7F5F0;
+  color: #0B1220;
+}
+
+/* Signature element: the citation bracket. Used to mark claims the way
+   AI answer engines footnote sourced statements — reinforces AEO/GEO story. */
+.cite-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-size: 0.65em;
+  line-height: 1;
+  padding: 0.15em 0.42em;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  color: #17B378;
+  background: rgba(23, 179, 120, 0.08);
+  vertical-align: super;
+  margin-left: 0.2em;
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+}
+
+::selection {
+  background: #FF5A1F;
+  color: #F7F5F0;
+}
+
+:focus-visible {
+  outline: 2px solid #FF5A1F;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
