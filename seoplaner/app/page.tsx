@@ -1,5 +1,4 @@
 import Header from "@/components/layout/Header";
-import Hero from "@/components/hero/Hero";
 import TrustBar from "@/components/hero/TrustBar";
 import Footer from "@/components/layout/Footer";
 
